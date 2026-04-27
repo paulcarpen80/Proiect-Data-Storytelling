@@ -1,2 +1,2 @@
-# Proiect-Data-Storytelling
-Proiect din anul II de Masterat
+# Data-Storytelling-Project
+Project presented during the 2nd year of my Master's degree.
